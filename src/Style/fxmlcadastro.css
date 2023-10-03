@@ -1,0 +1,13 @@
+
+
+.mainFxmlClass {
+
+}
+.label {
+    -fx-font-size:50px;
+}
+.outline.label .text {
+    -fx-fill: lightseagreen;
+    -fx-stroke: firebrick;
+    -fx-strocke-width: 2px;
+}
